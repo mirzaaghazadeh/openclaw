@@ -125,7 +125,7 @@ export const es: TranslationMap = {
     ptBR: "Portugués brasileño (Português)",
     de: "Deutsch (Alemán)",
     es: "Español",
-    tr: "Turkish (Türkçe)",
+    tr: "Turco (Türkçe)",
   },
   cron: {
     summary: {
