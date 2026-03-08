@@ -11,7 +11,7 @@ export const tr: TranslationMap = {
     enabled: "Etkin",
     disabled: "Devre dışı",
     na: "yok",
-    docs: "Belgeler",
+    docs: "Dokümantasyon",
     resources: "Kaynaklar",
   },
   nav: {
@@ -209,7 +209,7 @@ export const tr: TranslationMap = {
       every: "Her",
       at: "Saat",
       cronOption: "Cron",
-      runAt: "Çalıştırma zamanı",
+      runAt: "Çalışma zamanı",
       unit: "Birim",
       minutes: "Dakika",
       hours: "Saat",
