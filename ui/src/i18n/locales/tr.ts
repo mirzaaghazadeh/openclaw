@@ -209,7 +209,7 @@ export const tr: TranslationMap = {
       every: "Her",
       at: "Saat",
       cronOption: "Cron",
-      runAt: "Çalıştırma zamanı",
+      runAt: "Çalışma zamanı",
       unit: "Birim",
       minutes: "Dakika",
       hours: "Saat",
